@@ -1,0 +1,15 @@
+{
+    "instructions": [
+        {
+            "go_to_url": "http://www.google.com",
+            "enter_params": {
+                "q": "Ruby on Rails"
+            }
+        },
+        {
+            "enter_params": {
+                "q": "Perl Dancer"
+            }
+        }
+    ]
+}
